@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 ```
 
-*Download links:*
+*Download links:*<br/>
 MAMP: https://www.mamp.info/en/downloads/ <br/>
 LAMP: https://bitnami.com/stack/lamp/installer <br/>
 WAMP: http://www.wampserver.com/en/ <br/>
@@ -58,7 +58,7 @@ Clone this repository to a path in your Pc.
 Open Netbeans IDE -> File -> Open Project and Navigate to the path in your Pc you cloned the repository.
 In the Projects Structure Click on " Dashboard.java " and hit the Run button.
 
-*Download links:*
+*Download links:*<br/>
 Java JDK:  http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html <br/>
 Netbeans IDE:  https://netbeans.org/downloads/ <br/>
  
