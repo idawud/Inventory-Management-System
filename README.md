@@ -19,7 +19,7 @@ https://www.mysql.com/
  create a Database: 'inventory'
  create also two tables: 'product' and 'admin' 
 
-*Table structure for table `product` * 
+*Table structure for table `product`* 
 ```
 CREATE TABLE `product` (
   `id` int(11) NOT NULL,
